@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\bin\Debug\Parcial_1.exe.config
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\bin\Debug\Parcial_1.exe
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\bin\Debug\Parcial_1.pdb
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.exe
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.pdb
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.Form2.resources
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.Form3.resources
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.Form4.resources
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.Form5.resources
+C:\Users\MINEDUCYT\Desktop\Lab paractico 1\Parcial_1\Parcial_1\obj\Debug\Parcial_1.csproj.SuggestedBindingRedirects.cache
